@@ -1,0 +1,132 @@
+body {
+  background-color: #f5f7fa;
+  font-family: "Montserrat", Arial;
+}
+
+/*Principal Container*/
+
+.contenedor-principal {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  padding: 200px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.informacion-secundaria {
+  background: #012150;
+  padding: 40px;
+}
+
+.corchete {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.puntos {
+  line-height: 18px;
+}
+
+.titulo-lateral {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+  padding-top: 20px;
+}
+
+.tipo-dato {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.titulillo {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.punto {
+  color: orangered;
+}
+
+.contacto {
+  color: white;
+  font-size: 16px;
+}
+
+/* Principal*/
+
+.informacion-general {
+  padding-left: 30px;
+}
+
+.nombre {
+  color: #012150;
+}
+
+/* Projects */
+
+.projects {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+/* Job Information*/
+
+.Job-Information {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.cargo {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #0d1235;
+}
+
+.titulo-secundario {
+  color: #012150;
+}
+
+.Perfil {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.empresa {
+  color: orangered;
+}
+
+.temporalidad {
+  color: darkolivegreen;
+  padding-left: 20px;
+}
+
+/*Academic Info*/
+
+.historia-academica {
+  padding-top: 10px;
+  padding-left: 30px;
+}
+
+.titulo-academico {
+  color: orangered;
+}
